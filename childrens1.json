@@ -1,0 +1,28 @@
+{
+    "left": {
+      "data": {
+        "id": 1,
+        "parent_id": null,
+        "value": "grandfather- root"
+      },
+      "left": null,
+      "right": null
+    },
+    "right": {
+      "data": {
+        "id": 3,
+        "parent_id": 1,
+        "value": "sharon- child 2"
+      },
+      "left": null,
+      "right": {
+        "data": {
+          "id": 4,
+          "parent_id": 2,
+          "value": "grandchild"
+        },
+        "left": null,
+        "right": null
+      }
+    }
+  }

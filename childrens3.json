@@ -1,0 +1,12 @@
+{
+    "left": null,
+    "right": {
+      "data": {
+        "id": 4,
+        "parent_id": 2,
+        "value": "grandchild"
+      },
+      "left": null,
+      "right": null
+    }
+  }
